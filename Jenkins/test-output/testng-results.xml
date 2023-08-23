@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-23T15:50:35 IST" name="Default suite" finished-at="2023-08-23T15:50:44 IST" duration-ms="9324">
+    <groups>
+    </groups>
+    <test started-at="2023-08-23T15:50:35 IST" name="Default test" finished-at="2023-08-23T15:50:44 IST" duration-ms="9324">
+      <class name="jenkins.jenkins">
+        <test-method signature="main()[pri:0, instance:jenkins.jenkins@2c767a52]" started-at="2023-08-23T15:50:35 IST" name="main" finished-at="2023-08-23T15:50:44 IST" duration-ms="9293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- jenkins.jenkins -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
